@@ -1,9 +1,9 @@
-# hello, i'm Guilherme Pokomaier 👋
+# Olá, eu sou Guilherme Pokomaier 👋
 
 🚀 **Técnico em Informática | Futuro Desenvolvedor de Software.**  
 🇧🇷 Brazil
 
-Eu estão começando na área da programação e pretendo continuar estudando até me formar em Desenvolvimento de Software e conseguir meu emprego dos sonhos.
+Estou iniciando minha jornada na área da programação e pretendo seguir estudando até me formar em Desenvolvimento de Software e alcançar meu emprego dos sonhos.
 
 
 ---
@@ -29,7 +29,7 @@ Eu estão começando na área da programação e pretendo continuar estudando at
 -   Futuro Desenvolvedor de Software.
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
@@ -59,12 +59,11 @@ Eu estão começando na área da programação e pretendo continuar estudando at
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Programar não é apenas solucionar erros, é criar soluções inteligentes que crescem, permanecem e impactam pessoas."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos!
+🤝 Sempre aberto a colaborações, parcerias e ideias legais

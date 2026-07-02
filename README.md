@@ -65,5 +65,4 @@ Estou iniciando minha jornada na área da programação e pretendo seguir estuda
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos!
-🤝 Sempre aberto a colaborações, parcerias e ideias legais
+

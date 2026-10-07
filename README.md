@@ -11,9 +11,6 @@ Estou iniciando minha jornada na área da programação e pretendo seguir estuda
 ##  Onde Me Encontrar
 
 <p align="left">
-  <a href="https://github.com/GuilhermePokomaier">
-    <img src="https://img.shields.io/badge/GitHub-GuilhermePokomaier-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://instagram.com/guilhermepokomaier_/">
     <img src="https://img.shields.io/badge/Instagram-@guilhermepokomaier_/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>

@@ -1,6 +1,6 @@
-# Olá, eu sou Guilherme Pokomaier 👋
+# Olá, eu sou Guilherme Pokomaier 
 
-🚀 **Técnico em Informática | Futuro Desenvolvedor de Software.**  
+ **Técnico em Informática | Futuro Desenvolvedor de Software.**  
 🇧🇷 Brazil
 
 Estou iniciando minha jornada na área da programação e pretendo seguir estudando até me formar em Desenvolvimento de Software e alcançar meu emprego dos sonhos.
@@ -8,7 +8,7 @@ Estou iniciando minha jornada na área da programação e pretendo seguir estuda
 
 ---
 
-## 🌐 Onde Me Encontrar
+##  Onde Me Encontrar
 
 <p align="left">
   <a href="https://github.com/GuilhermePokomaier">
@@ -25,14 +25,14 @@ Estou iniciando minha jornada na área da programação e pretendo seguir estuda
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 -   Cursando Tecnico em Informática na SATC- SC/Criciúma.
 -   Fanáctico por tecnológia e jogos.
 -   Futuro Desenvolvedor de Software.
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Frontend
 
@@ -53,18 +53,12 @@ Estou iniciando minha jornada na área da programação e pretendo seguir estuda
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermePokomaier&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePokomaier&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Filosofia
-
-> _"Programar não é apenas solucionar erros, é criar soluções inteligentes que crescem, permanecem e impactam pessoas."_
 
 ---
 

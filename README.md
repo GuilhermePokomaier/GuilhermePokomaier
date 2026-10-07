@@ -17,7 +17,7 @@ Estou iniciando minha jornada na área da programação e pretendo seguir estuda
   <a href="https://instagram.com/guilhermepokomaier_/">
     <img src="https://img.shields.io/badge/Instagram-@guilhermepokomaier_/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-   <a https://www.linkedin.com/in/guilherme-pokomaier-801b093a8/>
+   <a href="https://www.linkedin.com/in/guilhermepokomaier/" target="_blank">
     <<img src="https://img.shields.io/badge/LinkedIn-@guilhermepokomaier_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> />
   </a>
  
